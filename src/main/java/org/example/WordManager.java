@@ -27,7 +27,7 @@ public class WordManager {
             int menu = selectMenu();
             if(menu == 0) break;
             if(menu == 4) {
-                //
+                wordCRUD.addWord();
             }
             else if(menu == 1){
                 //
