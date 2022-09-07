@@ -6,8 +6,8 @@
 
 ## 2.  [1. 모든 단어보기] 메뉴 실행화면
 
-<img src = 'https://github.com/KimSeongKyung/wordProejct/blob/master/screenshots/%E1%84%86%E1%85%A9%E1%84%83%E1%85%B3%E1%86%AB%20%E1%84%83%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%A5%E1%84%87%E1%85%A9%E1%84%80%E1%85%B5.png?raw=true' width = 50>
+<img src = 'https://github.com/KimSeongKyung/wordProejct/blob/master/screenshots/%E1%84%86%E1%85%A9%E1%84%83%E1%85%B3%E1%86%AB%20%E1%84%83%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%A5%E1%84%87%E1%85%A9%E1%84%80%E1%85%B5.png?raw=true' width = 500>
 
 ## 3.  [0. 나가기] 메뉴 실행화면
 
-<img src = 'https://github.com/KimSeongKyung/wordProejct/blob/master/screenshots/%E1%84%82%E1%85%A1%E1%84%80%E1%85%A1%E1%84%80%E1%85%B5.png?raw=true' width = 50>
+<img src = 'https://github.com/KimSeongKyung/wordProejct/blob/master/screenshots/%E1%84%82%E1%85%A1%E1%84%80%E1%85%A1%E1%84%80%E1%85%B5.png?raw=true' width = 500>
