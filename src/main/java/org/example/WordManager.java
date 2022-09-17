@@ -1,4 +1,5 @@
 package org.example;
+import java.io.IOException;
 import java.util.Scanner;
 public class WordManager {
    Scanner sc = new Scanner(System.in);
@@ -23,6 +24,8 @@ public class WordManager {
         return sc.nextInt();
     }
     public void start() {
+
+       wordCRUD.loadFile();
        System.out.println("*** 영단어 마스터 ***");
         while(true) {
             int menu = selectMenu();
