@@ -34,7 +34,10 @@
 
 ## 7. '파일 저장' 메뉴 실행화면 
 
+<div>
 <img src = 'https://github.com/KimSeongKyung/wordProejct/blob/master/screenshots/7.%20%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF%20%E1%84%8C%E1%85%A5%E1%84%8C%E1%85%A1%E1%86%BC.png?raw=true' width = 500>
+<img src = 'https://github.com/KimSeongKyung/wordProejct/blob/master/screenshots/Dictionary.txt%20%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF.png?raw=true' width = 500>
+</div>
 
 ## 0. '나가기' 메뉴 실행화면
 
